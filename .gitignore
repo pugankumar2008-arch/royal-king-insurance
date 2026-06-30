@@ -3,6 +3,9 @@
 .env.*
 !.env.example
 
+# TanStack Router temp files (auto-generated, should never be committed)
+frontend/.tanstack/tmp/
+
 # Logs
 logs
 *.log
